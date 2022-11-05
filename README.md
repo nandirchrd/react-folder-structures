@@ -1,4 +1,4 @@
-# HERE IS MY VANILLA REACT FOLDER STRUCTURES
+# HERE IS MY TYPESCRIPT REACT FOLDER STRUCTURES
 - assets
   to save all my assets, like css, images, videos, files, etc.
 - components
@@ -13,11 +13,13 @@
   to organize my router routes, like react-router-dom.
 - services
   for fetching data or auth
+- types
+  for typescripts types
 - utils
   for my utilities functions We've made.
 - view
   for our pages 
-- App.jsx
+- App.tsx
   the wrapper app
-- main.jsx
+- main.tsx
   the entry point
